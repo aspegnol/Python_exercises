@@ -1,2 +1,3 @@
 # Python_exercises
-HackerRank answers
+Answers for some of HackerRank's challenges.
+https://www.hackerrank.com/aspegnol
