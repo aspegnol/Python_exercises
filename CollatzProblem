@@ -1,0 +1,12 @@
+def collatz(_number):
+    if _number%2 == 0:
+        return(_number // 2)
+    else:
+        return(3 * _number +1)
+
+x = (input('Podaj liczbę całkowitą\n')
+y=collatz(int(x))
+while y != 1:
+    print(y)
+    y = collatz(y)
+print(1)
